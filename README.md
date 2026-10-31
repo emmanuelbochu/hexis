@@ -32,6 +32,16 @@ L'app décide, dit ce qu'elle a décidé, et ne demande jamais de confirmation. 
 - **Alimentation** : un plan de repas hebdomadaire, un appui pour enregistrer un repas, une liste de courses calculée à partir du plan moins le stock, des tickets de caisse lus par Gemini pour mettre à jour stock et prix, et un plan qui suit la balance.
 - **Analyse** : bilan hebdomadaire, records, volume par muscle face aux objectifs, tendances repérées dans tes propres données (toujours avec la taille de l'échantillon, jamais une cause inventée).
 
+## Captures
+
+<p>
+  <img src="docs/captures/seance.png" width="30%" alt="Séance en cours : exercices, séries, charges et RPE">
+  <img src="docs/captures/courses.png" width="30%" alt="Liste de courses calculée à partir du plan de repas et du stock">
+  <img src="docs/captures/analyse.png" width="30%" alt="Écran d'analyse : tendances repérées dans les données">
+</p>
+
+*De gauche à droite : une séance en cours, la liste de courses, l'analyse.*
+
 ## Chiffres (générés depuis le code)
 <!-- facts -->
 - 262 fichiers Swift, 15 067 lignes, schéma SwiftData V16

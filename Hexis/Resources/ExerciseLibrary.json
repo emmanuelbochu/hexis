@@ -1,0 +1,212 @@
+[
+ {
+  "name": "Ab wheel",
+  "muscleGroup": "Abdominaux",
+  "unilateral": false
+ },
+ {
+  "name": "Abduction machine",
+  "muscleGroup": "Fessiers",
+  "unilateral": false
+ },
+ {
+  "name": "Curl haltères debout",
+  "muscleGroup": "Biceps",
+  "unilateral": false
+ },
+ {
+  "name": "Curl incliné haltères",
+  "muscleGroup": "Biceps",
+  "unilateral": false
+ },
+ {
+  "name": "Curl marteau",
+  "muscleGroup": "Biceps",
+  "unilateral": false
+ },
+ {
+  "name": "Descente lente 1 jambe",
+  "muscleGroup": "Réhab",
+  "unilateral": false
+ },
+ {
+  "name": "Développé incliné haltères",
+  "muscleGroup": "Pectoraux",
+  "unilateral": false
+ },
+ {
+  "name": "Développé épaules convergent",
+  "muscleGroup": "Épaules",
+  "unilateral": false
+ },
+ {
+  "name": "Extension triceps corde",
+  "muscleGroup": "Triceps",
+  "unilateral": false
+ },
+ {
+  "name": "Extension triceps poulie",
+  "muscleGroup": "Triceps",
+  "unilateral": false
+ },
+ {
+  "name": "Face pull",
+  "muscleGroup": "Deltoïdes arrière",
+  "unilateral": false
+ },
+ {
+  "name": "Fente bulgare Smith",
+  "muscleGroup": "Fessiers",
+  "unilateral": true
+ },
+ {
+  "name": "Flexion latérale nuque",
+  "muscleGroup": "Nuque flexion",
+  "unilateral": true
+ },
+ {
+  "name": "Hip thrust machine",
+  "muscleGroup": "Fessiers",
+  "unilateral": false
+ },
+ {
+  "name": "Leg curl allongé",
+  "muscleGroup": "Ischios",
+  "unilateral": false
+ },
+ {
+  "name": "Leg curl assis",
+  "muscleGroup": "Ischios",
+  "unilateral": false
+ },
+ {
+  "name": "Leg extension",
+  "muscleGroup": "Quadriceps",
+  "unilateral": false
+ },
+ {
+  "name": "Mollets assis presse",
+  "muscleGroup": "Mollets",
+  "unilateral": false
+ },
+ {
+  "name": "Mollets à la presse",
+  "muscleGroup": "Mollets",
+  "unilateral": false
+ },
+ {
+  "name": "Montée de marche en poussée",
+  "muscleGroup": "Réhab",
+  "unilateral": false
+ },
+ {
+  "name": "Neck extension",
+  "muscleGroup": "Nuque extension",
+  "unilateral": false
+ },
+ {
+  "name": "Neck flexion",
+  "muscleGroup": "Nuque flexion",
+  "unilateral": false
+ },
+ {
+  "name": "Oiseau machine",
+  "muscleGroup": "Deltoïdes arrière",
+  "unilateral": false
+ },
+ {
+  "name": "Pec deck",
+  "muscleGroup": "Pectoraux",
+  "unilateral": false
+ },
+ {
+  "name": "Pistol sur box",
+  "muscleGroup": "Réhab",
+  "unilateral": false
+ },
+ {
+  "name": "Presse à cuisses",
+  "muscleGroup": "Quadriceps",
+  "unilateral": false
+ },
+ {
+  "name": "Pull-over poulie",
+  "muscleGroup": "Dos",
+  "unilateral": false
+ },
+ {
+  "name": "RDL",
+  "muscleGroup": "Ischios",
+  "unilateral": false
+ },
+ {
+  "name": "Rowing machine",
+  "muscleGroup": "Dos",
+  "unilateral": false
+ },
+ {
+  "name": "Rowing poulie large",
+  "muscleGroup": "Dos",
+  "unilateral": false
+ },
+ {
+  "name": "Shrugs haltères assis",
+  "muscleGroup": "Trapèzes",
+  "unilateral": false
+ },
+ {
+  "name": "Shrugs haltères debout",
+  "muscleGroup": "Trapèzes",
+  "unilateral": false
+ },
+ {
+  "name": "Skull crusher haltères",
+  "muscleGroup": "Triceps",
+  "unilateral": false
+ },
+ {
+  "name": "Squat 1 jambe tenu",
+  "muscleGroup": "Réhab",
+  "unilateral": false
+ },
+ {
+  "name": "Squat 1 jambe tenu au point",
+  "muscleGroup": "Réhab",
+  "unilateral": false
+ },
+ {
+  "name": "Squat Smith",
+  "muscleGroup": "Quadriceps",
+  "unilateral": false
+ },
+ {
+  "name": "Tirage vertical",
+  "muscleGroup": "Dos",
+  "unilateral": false
+ },
+ {
+  "name": "Tirage vertical convergent",
+  "muscleGroup": "Dos",
+  "unilateral": false
+ },
+ {
+  "name": "Tirage vertical large",
+  "muscleGroup": "Dos",
+  "unilateral": false
+ },
+ {
+  "name": "Vélo intervalles",
+  "muscleGroup": "Cardio",
+  "unilateral": false
+ },
+ {
+  "name": "Élévations latérales haltères",
+  "muscleGroup": "Deltoïdes latéraux",
+  "unilateral": false
+ },
+ {
+  "name": "Élévations latérales poulie",
+  "muscleGroup": "Deltoïdes latéraux",
+  "unilateral": true
+ }
+]

@@ -1,0 +1,1428 @@
+{
+  "name": "Upper / Lower · réhab mollet",
+  "priorities": [
+    "Deltoïdes latéraux",
+    "Dos"
+  ],
+  "volume": {
+    "Deltoïdes latéraux": [
+      12,
+      20
+    ],
+    "Dos": [
+      12,
+      20
+    ],
+    "Deltoïdes arrière": [
+      6,
+      10
+    ],
+    "Trapèzes": [
+      8,
+      12
+    ],
+    "Nuque extension": [
+      8,
+      10
+    ],
+    "Nuque flexion": [
+      4,
+      8
+    ],
+    "Pectoraux": [
+      6,
+      10
+    ],
+    "Biceps": [
+      6,
+      10
+    ],
+    "Triceps": [
+      6,
+      10
+    ],
+    "Quadriceps": [
+      8,
+      14
+    ],
+    "Ischios": [
+      6,
+      10
+    ],
+    "Fessiers": [
+      6,
+      10
+    ],
+    "Mollets": [
+      6,
+      10
+    ],
+    "Abdominaux": [
+      4,
+      8
+    ]
+  },
+  "rehab": {
+    "name": "Réhab mollet",
+    "weeksPerPhase": 4,
+    "phases": [
+      {
+        "mollet": [
+          {
+            "name": "Squat 1 jambe tenu",
+            "muscleGroup": "Réhab",
+            "target": "Mollet droit",
+            "sets": 4,
+            "repsMin": 45,
+            "repsMax": 45,
+            "rest": 30,
+            "rir": 3,
+            "unit": "s",
+            "weekly": true,
+            "cue": "Jambe droite, immobile juste avant le point douloureux. Effort ~7/10.",
+            "points": [
+              "Pourquoi : phase 1 (S1-4) : charger juste avant l'angle qui fait mal. La charge progressive répare, pas les étirements.",
+              "Réglage : main sur un support, pied droit à plat, jambe gauche tendue devant. D'abord, trouve ton point : debout sur la jambe droite, main sur un support, descends lentement ; le moment où ça tire = ton point.",
+              "Mouvement : descends juste avant ton point et reste immobile. Moins tu t'appuies, plus ça travaille : chaque semaine un peu moins, puis un haltère dans l'autre main.",
+              "Règle : ≤ 3/10 pendant et rien de plus le lendemain matin. Sinon note « Gêne » : la réhab recule d'une semaine."
+            ]
+          }
+        ]
+      },
+      {
+        "mollet": [
+          {
+            "name": "Squat 1 jambe tenu au point",
+            "muscleGroup": "Réhab",
+            "target": "Mollet droit",
+            "sets": 3,
+            "repsMin": 30,
+            "repsMax": 30,
+            "rest": 30,
+            "rir": 3,
+            "unit": "s",
+            "weekly": true,
+            "cue": "Jambe droite, immobile pile au point douloureux.",
+            "points": [
+              "Pourquoi : phase 2 (S5-8) : on charge maintenant pile dans l'angle douloureux.",
+              "Réglage : main sur un support, pied droit à plat, jambe gauche tendue devant.",
+              "Mouvement : descends pile à ton point et reste immobile. Chaque semaine appuie-toi un peu moins, puis un haltère dans l'autre main.",
+              "Règle : ≤ 3/10 pendant et rien de plus le lendemain matin. Sinon note « Gêne » : la réhab recule d'une semaine."
+            ]
+          },
+          {
+            "name": "Descente lente 1 jambe",
+            "muscleGroup": "Réhab",
+            "target": "Mollet droit",
+            "sets": 3,
+            "repsMin": 6,
+            "repsMax": 6,
+            "rest": 30,
+            "rir": 3,
+            "step": 0,
+            "cue": "Descends en 4 s sur la droite à travers le point.",
+            "points": [
+              "Pourquoi : phase 2 : passer lentement à travers l'angle douloureux.",
+              "Réglage : debout sur la jambe droite, main sur un support.",
+              "Mouvement : descends sur la jambe droite en 4 s à travers le point, pose le pied gauche, remonte sur 2 jambes.",
+              "Règle : ≤ 3/10 pendant et rien de plus le lendemain matin. Sinon note « Gêne » : la réhab recule d'une semaine."
+            ]
+          }
+        ]
+      },
+      {
+        "mollet": [
+          {
+            "name": "Pistol sur box",
+            "muscleGroup": "Réhab",
+            "target": "Mollet droit, cuisse",
+            "sets": 3,
+            "repsMin": 6,
+            "repsMax": 6,
+            "rest": 30,
+            "rir": 3,
+            "step": 0,
+            "cue": "Assis-debout sur un banc, jambe droite ; banc plus bas chaque semaine.",
+            "points": [
+              "Pourquoi : phase 3 (S9-12) : retour aux mouvements qui faisaient mal.",
+              "Réglage : un banc derrière toi, plus bas chaque semaine.",
+              "Mouvement : assieds-toi sur le banc sur la jambe droite, puis relève-toi.",
+              "Presse lourde : celle de Lower B, de plus en plus lourde tant que c'est sans douleur.",
+              "Règle : ≤ 3/10 pendant et rien de plus le lendemain matin. Sinon note « Gêne » : la réhab recule d'une semaine."
+            ]
+          },
+          {
+            "name": "Montée de marche en poussée",
+            "muscleGroup": "Réhab",
+            "target": "Mollet droit, cuisse",
+            "sets": 3,
+            "repsMin": 8,
+            "repsMax": 8,
+            "rest": 30,
+            "rir": 3,
+            "step": 0,
+            "cue": "Pied droit sur un banc bas, pousse fort sur la droite.",
+            "points": [
+              "Pourquoi : phase 3 : force en poussée sur la jambe droite (escaliers).",
+              "Réglage : pied droit sur un banc bas.",
+              "Mouvement : monte en poussant fort sur la jambe droite, redescends contrôlé.",
+              "Règle : ≤ 3/10 pendant et rien de plus le lendemain matin. Sinon note « Gêne » : la réhab recule d'une semaine."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "shortWeek": [
+    "Full A",
+    "Upper A · 3 j",
+    "Upper B"
+  ],
+  "workouts": [
+    {
+      "name": "Lower A",
+      "blocks": [
+        {
+          "rehab": "mollet"
+        },
+        {
+          "exercises": [
+            {
+              "name": "Fente bulgare Smith",
+              "muscleGroup": "Fessiers",
+              "target": "Grand fessier, quadriceps",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 120,
+              "rir": 2,
+              "unilateral": true,
+              "tempo": "3-0-1",
+              "cue": "Pied avant à un grand pas du banc, buste ~15°, descente profonde.",
+              "points": [
+                "Pourquoi : meilleur exo fessiers + quadriceps compatible avec toi, sans douleur.",
+                "Réglage : banc derrière toi à hauteur de genou, barre sur le haut des trapèzes. Pied avant à un grand pas du banc : en bas, tibia avant presque vertical.",
+                "Mouvement : buste penché ~15-20°. Descends jusqu'à 2-5 cm du sol avec le genou arrière, pousse par le talon avant (80-90 % du poids sur la jambe avant). 15 s entre les jambes."
+              ],
+              "renamedFrom": "Fente bulgare Smith unilatérale"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Leg curl assis",
+              "muscleGroup": "Ischios",
+              "target": "Ischios",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Pointe tendue, buste penché ; 4-6 partielles étirées à la fin.",
+              "points": [
+                "Pourquoi : assis, les ischios sont étirés : plus de croissance. Pointe tendue = décharge le mollet.",
+                "Réglage : axe du genou aligné sur le pivot. Rouleau du bas juste au-dessus du talon, rouleau des cuisses serré au-dessus des genoux.",
+                "Mouvement : buste penché en avant, pointe de pied tendue. Plie au maximum, remonte lentement jusqu'à jambe presque tendue. Dernière série : + 4-6 partielles en position étirée."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Leg extension",
+              "muscleGroup": "Quadriceps",
+              "target": "Quadriceps",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "3-0-1",
+              "cue": "Pied relâché, tends complètement, redescends à 90°.",
+              "points": [
+                "Pourquoi : quadriceps sans charger le mollet ni le dos.",
+                "Réglage : axe du genou aligné sur le pivot. Dossier : creux du genou au bord du siège, sans que le mollet appuie dessus. Rouleau 2-3 doigts au-dessus de la cheville.",
+                "Mouvement : pied relâché. Tends complètement, redescends à ~90°. Dernière série : + partielles entre 90° et 45° de flexion."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Mollets assis presse",
+              "muscleGroup": "Mollets",
+              "target": "Soléaire + réhab",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 75,
+              "rir": 1,
+              "tempo": "3-1-3",
+              "cue": "Talons dans le vide, 1 s étiré en bas, monte au plus haut.",
+              "points": [
+                "Pourquoi : genou plié = soléaire ; complète la réhab, sans douleur pour toi.",
+                "Réglage : boudin sur le bas des cuisses, juste au-dessus des genoux. Avant-pied au bord de la plateforme, talons dans le vide.",
+                "Mouvement : descends jusqu'à l'étirement maximal sans douleur, 1 s en bas, monte au plus haut."
+              ]
+            },
+            {
+              "name": "Shrugs haltères debout",
+              "muscleGroup": "Trapèzes",
+              "target": "Trapèzes supérieurs",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 75,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Vers les oreilles sans rouler, 1 s en haut.",
+              "points": [
+                "Pourquoi : trapèzes = aspect imposant.",
+                "Réglage : haltères le long du corps, paumes vers toi, sangles.",
+                "Mouvement : monte les épaules vers les oreilles sans rouler, 1 s en haut, descends complètement."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Curl incliné haltères",
+              "muscleGroup": "Biceps",
+              "target": "Biceps (longue portion)",
+              "sets": 2,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 75,
+              "rir": 1,
+              "step": 1,
+              "loadFactor": 0.9,
+              "tempo": "2-0-1",
+              "cue": "Banc cran 3, bras derrière le corps, coudes fixes.",
+              "points": [
+                "Pourquoi : biceps en position étirée = meilleur stimulus.",
+                "Réglage : banc à 45° (cran 3), dos et tête collés. Si ça tire à l'avant de l'épaule : cran 4.",
+                "Mouvement : bras pendants à la verticale, derrière le corps, paumes vers l'avant. Monte sans avancer les coudes."
+              ],
+              "renamedFrom": "Curl haltères incliné 45°"
+            },
+            {
+              "name": "Skull crusher haltères",
+              "muscleGroup": "Triceps",
+              "target": "Triceps (longue portion)",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 12,
+              "rest": 75,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Banc cran 3, bras inclinés en arrière, plie seulement les coudes.",
+              "points": [
+                "Pourquoi : bras au-dessus de la tête : le triceps grossit nettement plus.",
+                "Réglage : même banc à 45° (cran 3) que le curl, un haltère dans chaque main, paumes face à face. Si ça tire : cran 2.",
+                "Mouvement : bras inclinés vers l'arrière, pas à la verticale. Plie seulement les coudes, descends les haltères derrière la tête jusqu'à l'étirement maximal, puis tends."
+              ],
+              "renamedFrom": "Skull crusher haltères banc 45°"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Abduction machine",
+              "muscleGroup": "Fessiers",
+              "target": "Moyen et petit fessier",
+              "sets": 3,
+              "repsMin": 12,
+              "repsMax": 15,
+              "rest": 60,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Buste penché ~30°, ouvre au maximum, 1 s.",
+              "points": [
+                "Pourquoi : haut des fessiers.",
+                "Réglage : coussins à l'extérieur des genoux.",
+                "Mouvement : buste penché en avant ~30°, mains sur les poignées. Ouvre au maximum, 1 s, reviens lentement."
+              ]
+            },
+            {
+              "name": "Ab wheel",
+              "muscleGroup": "Abdominaux",
+              "target": "Grand droit, obliques",
+              "sets": 3,
+              "repsMin": 6,
+              "repsMax": 12,
+              "rest": 60,
+              "rir": 2,
+              "step": 0,
+              "tempo": "2-0-2",
+              "cue": "À genoux, bassin rentré, bas du dos plat.",
+              "points": [
+                "Pourquoi : abdos chargés fort sans plier le dos (ta douleur vient de la flexion).",
+                "Réglage : genoux sur un tapis.",
+                "Mouvement : bassin rentré, fesses serrées. Roule en avant tant que le bas du dos reste plat, expire en revenant. Progression : partiel → complet → départ debout partiel."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Neck extension",
+              "muscleGroup": "Nuque extension",
+              "target": "Extenseurs du cou",
+              "sets": 3,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 60,
+              "rir": 2,
+              "tempo": "2-1-2",
+              "cue": "Ventre contre le banc incliné, tête qui dépasse, disque derrière la tête.",
+              "points": [
+                "Pourquoi : cou épais de profil et de dos : ~9 séries par semaine (Conley 1997). Pas d'échec les 6 premières semaines.",
+                "Réglage : banc incliné 30-45° (cran 2 ou 3), ventre contre le dossier, tête qui dépasse en haut. Harnais avec disque, ou disque sur serviette tenu derrière la tête.",
+                "Mouvement : laisse descendre la tête (menton vers la poitrine), remonte jusqu'à regarder devant."
+              ]
+            },
+            {
+              "name": "Neck flexion",
+              "muscleGroup": "Nuque flexion",
+              "target": "Sterno-cléido-mastoïdien",
+              "sets": 2,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 60,
+              "rir": 2,
+              "tempo": "2-1-2",
+              "cue": "Dos sur banc plat, tête dans le vide, disque sur le front.",
+              "points": [
+                "Pourquoi : cou large vu de face.",
+                "Réglage : dos sur banc plat (cran 1), épaules au bord, tête dans le vide. Disque sur le front avec une serviette, tenu à deux mains.",
+                "Mouvement : laisse descendre la tête doucement, rentre le menton et monte jusqu'à menton vers la poitrine."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Upper A",
+      "blocks": [
+        {
+          "exercises": [
+            {
+              "name": "Développé épaules convergent",
+              "muscleGroup": "Épaules",
+              "target": "Deltoïdes avant et latéral, triceps",
+              "sets": 4,
+              "repsMin": 5,
+              "repsMax": 7,
+              "rest": 135,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Poignées au menton, dos collé, sans verrouiller les coudes.",
+              "points": [
+                "Pourquoi : exo de force, stable pour le dos.",
+                "Réglage : siège réglé pour que les poignées soient au niveau du menton en bas. Dos collé, pieds au sol.",
+                "Mouvement : pousse sans verrouiller les coudes, redescends jusqu'aux épaules.",
+                "À CityB : haltères assis, banc cran 5."
+              ],
+              "renamedFrom": "Développé épaules convergent assis"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Tirage vertical convergent",
+              "muscleGroup": "Dos",
+              "target": "Grand dorsal (largeur)",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 105,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Barre au haut des pecs, coudes vers les hanches.",
+              "points": [
+                "Pourquoi : dos large = silhouette en V.",
+                "Réglage : machine convergente, prise pronation ~1,5× la largeur d'épaules. Boudins serrés sur les cuisses.",
+                "Mouvement : buste incliné ~15° en arrière. Tire la barre au haut des pecs, coudes vers les hanches. Remonte jusqu'à bras tendus et épaules étirées.",
+                "À CityB : poulie, prise large neutre."
+              ],
+              "renamedFrom": "Tirage vertical convergent pronation"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Développé incliné haltères",
+              "muscleGroup": "Pectoraux",
+              "target": "Haut des pecs",
+              "sets": 3,
+              "repsMin": 6,
+              "repsMax": 8,
+              "rest": 120,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Banc cran 2, coudes à 45-60°, étirement en bas.",
+              "points": [
+                "Pourquoi : haut des pecs ; les pecs sont un point fort, volume d'entretien.",
+                "Réglage : banc à 30° (cran 2). Pieds à plat, omoplates serrées.",
+                "Mouvement : haltères qui descendent au haut des pecs, coudes à ~45-60° du corps, étirement en bas."
+              ],
+              "renamedFrom": "Développé incliné haltères 30°"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Rowing machine",
+              "muscleGroup": "Dos",
+              "target": "Dos (épaisseur), arrière d'épaule",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 105,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Poitrine collée, coudes le long du corps, 1 s.",
+              "points": [
+                "Pourquoi : dos épais sans charger les lombaires.",
+                "Réglage : rowing convergent à disques, deux bras, prise neutre. Siège réglé pour que les poignées arrivent au milieu de la poitrine. Poitrine collée au coussin.",
+                "Mouvement : bras tendus devant, omoplates écartées. Tire les coudes en arrière le long du corps, 1 s.",
+                "À CityB : rowing droit à poulie, 2 bras, prise pronation large."
+              ],
+              "renamedFrom": "Rowing machine poitrine calée"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Élévations latérales poulie",
+              "muscleGroup": "Deltoïdes latéraux",
+              "target": "Deltoïde latéral",
+              "sets": 4,
+              "repsMin": 12,
+              "repsMax": 15,
+              "rest": 90,
+              "rir": 1,
+              "unilateral": true,
+              "step": 1,
+              "tempo": "2-0-1",
+              "cue": "Poulie à hauteur de genou, câble derrière toi, jusqu'à l'épaule.",
+              "points": [
+                "Pourquoi : priorité n°1 : la poulie garde la tension en bas.",
+                "Réglage : poulie à hauteur de genou (~45-55 cm), poignée simple. De profil, câble qui passe derrière le corps, l'autre main tient la colonne.",
+                "Mouvement : monte le bras un peu en avant (~30°), coude légèrement fléchi, jusqu'à hauteur d'épaule. Dernière série : partielles en bas."
+              ],
+              "renamedFrom": "Élévations latérales unilatérales poulie"
+            },
+            {
+              "name": "Extension triceps corde",
+              "muscleGroup": "Triceps",
+              "target": "Triceps (portions latérale et médiale)",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Coudes collés aux côtes, écarte la corde en bas.",
+              "points": [
+                "Pourquoi : complète l'exo au-dessus de la tête.",
+                "Réglage : poulie tout en haut, corde.",
+                "Mouvement : coudes collés aux côtes, buste un peu penché. Tends en écartant la corde en bas."
+              ],
+              "renamedFrom": "Extension triceps corde poulie haute"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Shrugs haltères assis",
+              "muscleGroup": "Trapèzes",
+              "target": "Trapèzes supérieurs",
+              "sets": 2,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 75,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Banc cran 5, dos calé, 1 s en haut.",
+              "points": [
+                "Pourquoi : trapèzes, dos calé : rien ne triche.",
+                "Réglage : banc à 80° (cran 5), dos calé.",
+                "Mouvement : bras tendus, monte, 1 s en haut, descends complètement."
+              ],
+              "renamedFrom": "Shrugs haltères assis banc 80°"
+            },
+            {
+              "name": "Curl marteau",
+              "muscleGroup": "Biceps",
+              "target": "Brachial, avant-bras",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 75,
+              "rir": 1,
+              "step": 1,
+              "tempo": "2-0-1",
+              "cue": "Pouces en haut, coudes fixes.",
+              "points": [
+                "Pourquoi : épaisseur du bras.",
+                "Réglage : debout ou assis.",
+                "Mouvement : prise neutre (pouces en haut), coudes fixes."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lower B",
+      "blocks": [
+        {
+          "rehab": "mollet"
+        },
+        {
+          "exercises": [
+            {
+              "name": "Presse à cuisses",
+              "muscleGroup": "Quadriceps",
+              "target": "Quadriceps, fessiers",
+              "sets": 4,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 120,
+              "rir": 2,
+              "tempo": "3-1-1",
+              "cue": "Pieds milieu-haut, 3 s de descente, 1 s de pause sans rebond.",
+              "points": [
+                "Pourquoi : même stimulus avec moins de charge : protège le mollet.",
+                "Réglage : pieds au milieu-haut du plateau, largeur d'épaules, pointes 15-30° vers l'extérieur.",
+                "Mouvement : descends en 3 s jusqu'à ~90-100° de genou, ou avant le point douloureux, ou avant que le bassin décolle. 1 s de pause sans rebond, pousse."
+              ],
+              "renamedFrom": "Presse à cuisses horizontale"
+            },
+            {
+              "name": "Mollets à la presse",
+              "muscleGroup": "Mollets",
+              "target": "Jumeaux + réhab",
+              "sets": 4,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 120,
+              "rir": 1,
+              "tempo": "3-1-3",
+              "cue": "Avant-pied en bas du plateau, genoux tendus, 1 s étiré.",
+              "points": [
+                "Pourquoi : genou tendu = jumeaux ; complète la réhab, sans douleur pour toi.",
+                "Réglage : avant-pied sur le bas du plateau, talons dans le vide. Genoux tendus sans les verrouiller. Sécurités en place.",
+                "Mouvement : descends jusqu'à l'étirement, 1 s, pousse au plus haut."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Leg extension",
+              "muscleGroup": "Quadriceps",
+              "target": "Quadriceps",
+              "sets": 2,
+              "repsMin": 10,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "3-0-1",
+              "cue": "Pied relâché, tends complètement, redescends à 90°.",
+              "points": [
+                "Pourquoi : quadriceps sans charger le mollet ni le dos.",
+                "Réglage : axe du genou aligné sur le pivot. Dossier : creux du genou au bord du siège, sans que le mollet appuie dessus. Rouleau 2-3 doigts au-dessus de la cheville.",
+                "Mouvement : pied relâché. Tends complètement, redescends à ~90°. Dernière série : + partielles entre 90° et 45° de flexion."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Leg curl allongé",
+              "muscleGroup": "Ischios",
+              "target": "Ischios",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Hanches plaquées, pointe tendue.",
+              "points": [
+                "Pourquoi : deuxième séance d'ischios.",
+                "Réglage : genoux juste après le bord du coussin, axe du genou aligné. Rouleau au-dessus des talons.",
+                "Mouvement : hanches plaquées, pointe tendue. Plie au maximum, redescends lentement."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Pull-over poulie",
+              "muscleGroup": "Dos",
+              "target": "Grand dorsal",
+              "sets": 2,
+              "repsMin": 12,
+              "repsMax": 15,
+              "rest": 75,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Buste penché ~30°, bras presque tendus, corde vers les cuisses.",
+              "points": [
+                "Pourquoi : grand dorsal isolé, sans les biceps.",
+                "Réglage : poulie tout en haut, corde. Recule de 1-2 pas.",
+                "Mouvement : buste penché ~30°, bras presque tendus au-dessus de la tête. Ramène la corde vers les cuisses, côtes basses."
+              ],
+              "renamedFrom": "Pull-over poulie haute corde"
+            },
+            {
+              "name": "Face pull",
+              "muscleGroup": "Deltoïdes arrière",
+              "target": "Deltoïde arrière, trapèzes moyens",
+              "sets": 3,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 75,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Poulie au front, coudes hauts, mains à côté des oreilles.",
+              "points": [
+                "Pourquoi : épaules pleines de profil, posture.",
+                "Réglage : poulie à hauteur du front, corde.",
+                "Mouvement : tire vers le front en écartant les mains, coudes hauts. Finis mains à côté des oreilles."
+              ],
+              "renamedFrom": "Face pull poulie hauteur yeux"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Élévations latérales poulie",
+              "muscleGroup": "Deltoïdes latéraux",
+              "target": "Deltoïde latéral",
+              "sets": 4,
+              "repsMin": 12,
+              "repsMax": 15,
+              "rest": 75,
+              "rir": 1,
+              "unilateral": true,
+              "step": 1,
+              "tempo": "2-0-1",
+              "cue": "Poulie à hauteur de genou, câble derrière toi, jusqu'à l'épaule.",
+              "points": [
+                "Pourquoi : priorité n°1 : la poulie garde la tension en bas.",
+                "Réglage : poulie à hauteur de genou (~45-55 cm), poignée simple. De profil, câble qui passe derrière le corps, l'autre main tient la colonne.",
+                "Mouvement : monte le bras un peu en avant (~30°), coude légèrement fléchi, jusqu'à hauteur d'épaule. Dernière série : partielles en bas."
+              ],
+              "renamedFrom": "Élévations latérales unilatérales poulie"
+            },
+            {
+              "name": "Ab wheel",
+              "muscleGroup": "Abdominaux",
+              "target": "Grand droit, obliques",
+              "sets": 3,
+              "repsMin": 6,
+              "repsMax": 12,
+              "rest": 75,
+              "rir": 2,
+              "step": 0,
+              "tempo": "2-0-2",
+              "cue": "À genoux, bassin rentré, bas du dos plat.",
+              "points": [
+                "Pourquoi : abdos chargés fort sans plier le dos (ta douleur vient de la flexion).",
+                "Réglage : genoux sur un tapis.",
+                "Mouvement : bassin rentré, fesses serrées. Roule en avant tant que le bas du dos reste plat, expire en revenant. Progression : partiel → complet → départ debout partiel."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Neck extension",
+              "muscleGroup": "Nuque extension",
+              "target": "Extenseurs du cou",
+              "sets": 3,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 60,
+              "rir": 2,
+              "tempo": "2-1-2",
+              "cue": "Ventre contre le banc incliné, tête qui dépasse, disque derrière la tête.",
+              "points": [
+                "Pourquoi : cou épais de profil et de dos : ~9 séries par semaine (Conley 1997). Pas d'échec les 6 premières semaines.",
+                "Réglage : banc incliné 30-45° (cran 2 ou 3), ventre contre le dossier, tête qui dépasse en haut. Harnais avec disque, ou disque sur serviette tenu derrière la tête.",
+                "Mouvement : laisse descendre la tête (menton vers la poitrine), remonte jusqu'à regarder devant."
+              ]
+            },
+            {
+              "name": "Flexion latérale nuque",
+              "muscleGroup": "Nuque flexion",
+              "target": "SCM, scalènes",
+              "sets": 2,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 60,
+              "rir": 2,
+              "unilateral": true,
+              "tempo": "2-1-2",
+              "cue": "Sur le côté, tête dans le vide, disque sur la tempe.",
+              "points": [
+                "Pourquoi : largeur du cou vu de face.",
+                "Réglage : allongé sur le côté sur banc plat (cran 1), épaule au bord, tête dans le vide. Disque sur la tempe.",
+                "Mouvement : monte l'oreille vers le plafond, redescends lentement. Fais les deux côtés."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Upper B",
+      "blocks": [
+        {
+          "exercises": [
+            {
+              "name": "Rowing poulie large",
+              "muscleGroup": "Dos",
+              "target": "Haut du dos, arrière d'épaule, grand dorsal",
+              "sets": 3,
+              "repsMin": 6,
+              "repsMax": 8,
+              "rest": 105,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Barre large, coudes vers l'arrière et l'extérieur, 1 s.",
+              "points": [
+                "Pourquoi : prise large = haut du dos et arrière d'épaule ; complète le rowing neutre d'Upper A.",
+                "Réglage : rowing droit à poulie, 2 bras, barre large en pronation (paumes vers le bas), mains plus écartées que les épaules. Siège réglé pour que la barre arrive au bas des pecs. Poitrine calée si appui.",
+                "Mouvement : bras tendus devant, épaules étirées. Tire les coudes vers l'arrière et vers l'extérieur, 1 s, reviens lentement."
+              ],
+              "renamedFrom": "Rowing poulie prise large pronation"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Tirage vertical large",
+              "muscleGroup": "Dos",
+              "target": "Grand dorsal",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Coudes vers les hanches, remonte jusqu'à l'étirement.",
+              "points": [
+                "Pourquoi : autre prise qu'Upper A : même croissance, autre confort pour l'épaule.",
+                "Réglage : poulie haute, barre large à poignées neutres (paumes face à face). Boudins serrés.",
+                "Mouvement : tire les coudes vers les hanches, remonte jusqu'à l'étirement complet."
+              ],
+              "renamedFrom": "Tirage vertical prise large neutre"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Développé incliné haltères",
+              "muscleGroup": "Pectoraux",
+              "target": "Haut des pecs",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 105,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Banc cran 2, coudes à 45-60°, étirement en bas.",
+              "points": [
+                "Pourquoi : haut des pecs ; les pecs sont un point fort, volume d'entretien.",
+                "Réglage : banc à 30° (cran 2). Pieds à plat, omoplates serrées.",
+                "Mouvement : haltères qui descendent au haut des pecs, coudes à ~45-60° du corps, étirement en bas."
+              ],
+              "renamedFrom": "Développé incliné haltères 30°"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Pec deck",
+              "muscleGroup": "Pectoraux",
+              "target": "Pectoraux",
+              "sets": 2,
+              "repsMin": 10,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Poignées à mi-pecs, coudes un peu fléchis, étire sans douleur.",
+              "points": [
+                "Pourquoi : pecs étirés, sans fatiguer les triceps.",
+                "Réglage : siège réglé pour que les poignées soient à mi-hauteur des pecs. Coudes un peu fléchis.",
+                "Mouvement : ouvre jusqu'à l'étirement des pecs, sans douleur à l'épaule. Ferme devant."
+              ]
+            },
+            {
+              "name": "Oiseau machine",
+              "muscleGroup": "Deltoïdes arrière",
+              "target": "Deltoïde arrière",
+              "sets": 3,
+              "repsMin": 12,
+              "repsMax": 15,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Face au dossier, bras presque tendus, ouvre jusqu'à la ligne du corps.",
+              "points": [
+                "Pourquoi : épaules en 3D.",
+                "Réglage : même machine que le pec deck, face au dossier, poignées à hauteur d'épaules.",
+                "Mouvement : bras presque tendus, ouvre vers l'arrière jusqu'à la ligne du corps."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Élévations latérales haltères",
+              "muscleGroup": "Deltoïdes latéraux",
+              "target": "Deltoïde latéral",
+              "sets": 4,
+              "repsMin": 12,
+              "repsMax": 15,
+              "rest": 75,
+              "rir": 1,
+              "step": 1,
+              "tempo": "2-0-1",
+              "cue": "Banc cran 5, dos calé, monte un peu en avant.",
+              "points": [
+                "Pourquoi : assis = pas de triche.",
+                "Réglage : banc à 80° (cran 5), dos calé.",
+                "Mouvement : coude un peu fléchi, monte jusqu'à hauteur d'épaule, un peu en avant. Partielles en bas en fin de série."
+              ],
+              "renamedFrom": "Élévations latérales haltères banc 80°"
+            },
+            {
+              "name": "Shrugs haltères assis",
+              "muscleGroup": "Trapèzes",
+              "target": "Trapèzes supérieurs",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 75,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Banc cran 5, dos calé, 1 s en haut.",
+              "points": [
+                "Pourquoi : trapèzes, dos calé : rien ne triche.",
+                "Réglage : banc à 80° (cran 5), dos calé.",
+                "Mouvement : bras tendus, monte, 1 s en haut, descends complètement."
+              ],
+              "renamedFrom": "Shrugs haltères assis banc 80°"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Skull crusher haltères",
+              "muscleGroup": "Triceps",
+              "target": "Triceps (longue portion)",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 12,
+              "rest": 75,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Banc cran 3, bras inclinés en arrière, plie seulement les coudes.",
+              "points": [
+                "Pourquoi : bras au-dessus de la tête : le triceps grossit nettement plus.",
+                "Réglage : même banc à 45° (cran 3) que le curl, un haltère dans chaque main, paumes face à face. Si ça tire : cran 2.",
+                "Mouvement : bras inclinés vers l'arrière, pas à la verticale. Plie seulement les coudes, descends les haltères derrière la tête jusqu'à l'étirement maximal, puis tends."
+              ],
+              "renamedFrom": "Skull crusher haltères banc 45°"
+            },
+            {
+              "name": "Curl incliné haltères",
+              "muscleGroup": "Biceps",
+              "target": "Biceps (longue portion)",
+              "sets": 2,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 75,
+              "rir": 1,
+              "step": 1,
+              "loadFactor": 0.9,
+              "tempo": "2-0-1",
+              "cue": "Banc cran 3, bras derrière le corps, coudes fixes.",
+              "points": [
+                "Pourquoi : biceps en position étirée = meilleur stimulus.",
+                "Réglage : banc à 45° (cran 3), dos et tête collés. Si ça tire à l'avant de l'épaule : cran 4.",
+                "Mouvement : bras pendants à la verticale, derrière le corps, paumes vers l'avant. Monte sans avancer les coudes."
+              ],
+              "renamedFrom": "Curl haltères incliné 45°"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Neck extension",
+              "muscleGroup": "Nuque extension",
+              "target": "Extenseurs du cou",
+              "sets": 3,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 90,
+              "rir": 2,
+              "tempo": "2-1-2",
+              "cue": "Ventre contre le banc incliné, tête qui dépasse, disque derrière la tête.",
+              "points": [
+                "Pourquoi : cou épais de profil et de dos : ~9 séries par semaine (Conley 1997). Pas d'échec les 6 premières semaines.",
+                "Réglage : banc incliné 30-45° (cran 2 ou 3), ventre contre le dossier, tête qui dépasse en haut. Harnais avec disque, ou disque sur serviette tenu derrière la tête.",
+                "Mouvement : laisse descendre la tête (menton vers la poitrine), remonte jusqu'à regarder devant."
+              ]
+            },
+            {
+              "name": "Neck flexion",
+              "muscleGroup": "Nuque flexion",
+              "target": "Sterno-cléido-mastoïdien",
+              "sets": 2,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 90,
+              "rir": 2,
+              "tempo": "2-1-2",
+              "cue": "Dos sur banc plat, tête dans le vide, disque sur le front.",
+              "points": [
+                "Pourquoi : cou large vu de face.",
+                "Réglage : dos sur banc plat (cran 1), épaules au bord, tête dans le vide. Disque sur le front avec une serviette, tenu à deux mains.",
+                "Mouvement : laisse descendre la tête doucement, rentre le menton et monte jusqu'à menton vers la poitrine."
+              ]
+            }
+          ]
+        },
+        {
+          "rehab": "mollet"
+        },
+        {
+          "exercises": [
+            {
+              "name": "Vélo intervalles",
+              "muscleGroup": "Cardio",
+              "target": "Cardio (VO2max)",
+              "sets": 4,
+              "repsMin": 4,
+              "repsMax": 4,
+              "rest": 180,
+              "rir": 2,
+              "unit": "min",
+              "step": 1,
+              "cue": "4 min fort (tu ne parles plus), 3 min facile. Kg = niveau.",
+              "points": [
+                "Pourquoi : meilleur gain cardio pour le temps passé : les intervalles améliorent le plus la VO2max (Wen 2019).",
+                "Réglage : selle à hauteur de hanche : jambe presque tendue en bas. Kg = niveau du vélo.",
+                "Mouvement : 3 min d'échauffement, puis 4 × (4 min fort à ~85-90 % FC max + 3 min facile). 2 min de retour au calme."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Full A",
+      "replaces": [
+        "Lower A",
+        "Lower B"
+      ],
+      "blocks": [
+        {
+          "rehab": "mollet"
+        },
+        {
+          "exercises": [
+            {
+              "name": "Presse à cuisses",
+              "muscleGroup": "Quadriceps",
+              "target": "Quadriceps, fessiers",
+              "sets": 4,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 120,
+              "rir": 2,
+              "tempo": "3-1-1",
+              "cue": "Pieds milieu-haut, 3 s de descente, 1 s de pause sans rebond.",
+              "points": [
+                "Pourquoi : même stimulus avec moins de charge : protège le mollet.",
+                "Réglage : pieds au milieu-haut du plateau, largeur d'épaules, pointes 15-30° vers l'extérieur.",
+                "Mouvement : descends en 3 s jusqu'à ~90-100° de genou, ou avant le point douloureux, ou avant que le bassin décolle. 1 s de pause sans rebond, pousse."
+              ],
+              "renamedFrom": "Presse à cuisses horizontale"
+            },
+            {
+              "name": "Mollets à la presse",
+              "muscleGroup": "Mollets",
+              "target": "Jumeaux + réhab",
+              "sets": 4,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 120,
+              "rir": 1,
+              "tempo": "3-1-3",
+              "cue": "Avant-pied en bas du plateau, genoux tendus, 1 s étiré.",
+              "points": [
+                "Pourquoi : genou tendu = jumeaux ; complète la réhab, sans douleur pour toi.",
+                "Réglage : avant-pied sur le bas du plateau, talons dans le vide. Genoux tendus sans les verrouiller. Sécurités en place.",
+                "Mouvement : descends jusqu'à l'étirement, 1 s, pousse au plus haut."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Leg extension",
+              "muscleGroup": "Quadriceps",
+              "target": "Quadriceps",
+              "sets": 2,
+              "repsMin": 10,
+              "repsMax": 12,
+              "rest": 60,
+              "rir": 1,
+              "tempo": "3-0-1",
+              "cue": "Pied relâché, tends complètement, redescends à 90°.",
+              "points": [
+                "Pourquoi : quadriceps sans charger le mollet ni le dos.",
+                "Réglage : axe du genou aligné sur le pivot. Dossier : creux du genou au bord du siège, sans que le mollet appuie dessus. Rouleau 2-3 doigts au-dessus de la cheville.",
+                "Mouvement : pied relâché. Tends complètement, redescends à ~90°. Dernière série : + partielles entre 90° et 45° de flexion."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Leg curl assis",
+              "muscleGroup": "Ischios",
+              "target": "Ischios",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Pointe tendue, buste penché ; 4-6 partielles étirées à la fin.",
+              "points": [
+                "Pourquoi : assis, les ischios sont étirés : plus de croissance. Pointe tendue = décharge le mollet.",
+                "Réglage : axe du genou aligné sur le pivot. Rouleau du bas juste au-dessus du talon, rouleau des cuisses serré au-dessus des genoux.",
+                "Mouvement : buste penché en avant, pointe de pied tendue. Plie au maximum, remonte lentement jusqu'à jambe presque tendue. Dernière série : + 4-6 partielles en position étirée."
+              ]
+            },
+            {
+              "name": "Ab wheel",
+              "muscleGroup": "Abdominaux",
+              "target": "Grand droit, obliques",
+              "sets": 3,
+              "repsMin": 6,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 2,
+              "step": 0,
+              "tempo": "2-0-2",
+              "cue": "À genoux, bassin rentré, bas du dos plat.",
+              "points": [
+                "Pourquoi : abdos chargés fort sans plier le dos (ta douleur vient de la flexion).",
+                "Réglage : genoux sur un tapis.",
+                "Mouvement : bassin rentré, fesses serrées. Roule en avant tant que le bas du dos reste plat, expire en revenant. Progression : partiel → complet → départ debout partiel."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Élévations latérales poulie",
+              "muscleGroup": "Deltoïdes latéraux",
+              "target": "Deltoïde latéral",
+              "sets": 4,
+              "repsMin": 12,
+              "repsMax": 15,
+              "rest": 90,
+              "rir": 1,
+              "unilateral": true,
+              "step": 1,
+              "tempo": "2-0-1",
+              "cue": "Poulie à hauteur de genou, câble derrière toi, jusqu'à l'épaule.",
+              "points": [
+                "Pourquoi : priorité n°1 : la poulie garde la tension en bas.",
+                "Réglage : poulie à hauteur de genou (~45-55 cm), poignée simple. De profil, câble qui passe derrière le corps, l'autre main tient la colonne.",
+                "Mouvement : monte le bras un peu en avant (~30°), coude légèrement fléchi, jusqu'à hauteur d'épaule. Dernière série : partielles en bas."
+              ],
+              "renamedFrom": "Élévations latérales unilatérales poulie"
+            },
+            {
+              "name": "Extension triceps corde",
+              "muscleGroup": "Triceps",
+              "target": "Triceps (portions latérale et médiale)",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Coudes collés aux côtes, écarte la corde en bas.",
+              "points": [
+                "Pourquoi : complète l'exo au-dessus de la tête.",
+                "Réglage : poulie tout en haut, corde.",
+                "Mouvement : coudes collés aux côtes, buste un peu penché. Tends en écartant la corde en bas."
+              ],
+              "renamedFrom": "Extension triceps corde poulie haute"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Neck extension",
+              "muscleGroup": "Nuque extension",
+              "target": "Extenseurs du cou",
+              "sets": 3,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 60,
+              "rir": 2,
+              "tempo": "2-1-2",
+              "cue": "Ventre contre le banc incliné, tête qui dépasse, disque derrière la tête.",
+              "points": [
+                "Pourquoi : cou épais de profil et de dos : ~9 séries par semaine (Conley 1997). Pas d'échec les 6 premières semaines.",
+                "Réglage : banc incliné 30-45° (cran 2 ou 3), ventre contre le dossier, tête qui dépasse en haut. Harnais avec disque, ou disque sur serviette tenu derrière la tête.",
+                "Mouvement : laisse descendre la tête (menton vers la poitrine), remonte jusqu'à regarder devant."
+              ]
+            },
+            {
+              "name": "Neck flexion",
+              "muscleGroup": "Nuque flexion",
+              "target": "Sterno-cléido-mastoïdien",
+              "sets": 2,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 60,
+              "rir": 2,
+              "tempo": "2-1-2",
+              "cue": "Dos sur banc plat, tête dans le vide, disque sur le front.",
+              "points": [
+                "Pourquoi : cou large vu de face.",
+                "Réglage : dos sur banc plat (cran 1), épaules au bord, tête dans le vide. Disque sur le front avec une serviette, tenu à deux mains.",
+                "Mouvement : laisse descendre la tête doucement, rentre le menton et monte jusqu'à menton vers la poitrine."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Upper A · 3 j",
+      "replaces": [
+        "Upper A"
+      ],
+      "blocks": [
+        {
+          "exercises": [
+            {
+              "name": "Développé épaules convergent",
+              "muscleGroup": "Épaules",
+              "target": "Deltoïdes avant et latéral, triceps",
+              "sets": 4,
+              "repsMin": 5,
+              "repsMax": 7,
+              "rest": 135,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Poignées au menton, dos collé, sans verrouiller les coudes.",
+              "points": [
+                "Pourquoi : exo de force, stable pour le dos.",
+                "Réglage : siège réglé pour que les poignées soient au niveau du menton en bas. Dos collé, pieds au sol.",
+                "Mouvement : pousse sans verrouiller les coudes, redescends jusqu'aux épaules.",
+                "À CityB : haltères assis, banc cran 5."
+              ],
+              "renamedFrom": "Développé épaules convergent assis"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Tirage vertical convergent",
+              "muscleGroup": "Dos",
+              "target": "Grand dorsal (largeur)",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 105,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Barre au haut des pecs, coudes vers les hanches.",
+              "points": [
+                "Pourquoi : dos large = silhouette en V.",
+                "Réglage : machine convergente, prise pronation ~1,5× la largeur d'épaules. Boudins serrés sur les cuisses.",
+                "Mouvement : buste incliné ~15° en arrière. Tire la barre au haut des pecs, coudes vers les hanches. Remonte jusqu'à bras tendus et épaules étirées.",
+                "À CityB : poulie, prise large neutre."
+              ],
+              "renamedFrom": "Tirage vertical convergent pronation"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Développé incliné haltères",
+              "muscleGroup": "Pectoraux",
+              "target": "Haut des pecs",
+              "sets": 3,
+              "repsMin": 6,
+              "repsMax": 8,
+              "rest": 120,
+              "rir": 1,
+              "tempo": "2-0-1",
+              "cue": "Banc cran 2, coudes à 45-60°, étirement en bas.",
+              "points": [
+                "Pourquoi : haut des pecs ; les pecs sont un point fort, volume d'entretien.",
+                "Réglage : banc à 30° (cran 2). Pieds à plat, omoplates serrées.",
+                "Mouvement : haltères qui descendent au haut des pecs, coudes à ~45-60° du corps, étirement en bas."
+              ],
+              "renamedFrom": "Développé incliné haltères 30°"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Rowing machine",
+              "muscleGroup": "Dos",
+              "target": "Dos (épaisseur), arrière d'épaule",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 105,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Poitrine collée, coudes le long du corps, 1 s.",
+              "points": [
+                "Pourquoi : dos épais sans charger les lombaires.",
+                "Réglage : rowing convergent à disques, deux bras, prise neutre. Siège réglé pour que les poignées arrivent au milieu de la poitrine. Poitrine collée au coussin.",
+                "Mouvement : bras tendus devant, omoplates écartées. Tire les coudes en arrière le long du corps, 1 s.",
+                "À CityB : rowing droit à poulie, 2 bras, prise pronation large."
+              ],
+              "renamedFrom": "Rowing machine poitrine calée"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Élévations latérales poulie",
+              "muscleGroup": "Deltoïdes latéraux",
+              "target": "Deltoïde latéral",
+              "sets": 4,
+              "repsMin": 12,
+              "repsMax": 15,
+              "rest": 90,
+              "rir": 1,
+              "unilateral": true,
+              "step": 1,
+              "tempo": "2-0-1",
+              "cue": "Poulie à hauteur de genou, câble derrière toi, jusqu'à l'épaule.",
+              "points": [
+                "Pourquoi : priorité n°1 : la poulie garde la tension en bas.",
+                "Réglage : poulie à hauteur de genou (~45-55 cm), poignée simple. De profil, câble qui passe derrière le corps, l'autre main tient la colonne.",
+                "Mouvement : monte le bras un peu en avant (~30°), coude légèrement fléchi, jusqu'à hauteur d'épaule. Dernière série : partielles en bas."
+              ],
+              "renamedFrom": "Élévations latérales unilatérales poulie"
+            },
+            {
+              "name": "Curl incliné haltères",
+              "muscleGroup": "Biceps",
+              "target": "Biceps (longue portion)",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 10,
+              "rest": 90,
+              "rir": 1,
+              "step": 1,
+              "tempo": "2-0-1",
+              "cue": "Banc cran 3, bras derrière le corps, coudes fixes.",
+              "points": [
+                "Pourquoi : biceps en position étirée = meilleur stimulus.",
+                "Réglage : banc à 45° (cran 3), dos et tête collés. Si ça tire à l'avant de l'épaule : cran 4.",
+                "Mouvement : bras pendants à la verticale, derrière le corps, paumes vers l'avant. Monte sans avancer les coudes."
+              ],
+              "renamedFrom": "Curl haltères incliné 45°"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Shrugs haltères assis",
+              "muscleGroup": "Trapèzes",
+              "target": "Trapèzes supérieurs",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 75,
+              "rir": 1,
+              "tempo": "2-1-1",
+              "cue": "Banc cran 5, dos calé, 1 s en haut.",
+              "points": [
+                "Pourquoi : trapèzes, dos calé : rien ne triche.",
+                "Réglage : banc à 80° (cran 5), dos calé.",
+                "Mouvement : bras tendus, monte, 1 s en haut, descends complètement."
+              ],
+              "renamedFrom": "Shrugs haltères assis banc 80°"
+            },
+            {
+              "name": "Neck extension",
+              "muscleGroup": "Nuque extension",
+              "target": "Extenseurs du cou",
+              "sets": 3,
+              "repsMin": 15,
+              "repsMax": 20,
+              "rest": 75,
+              "rir": 2,
+              "tempo": "2-1-2",
+              "cue": "Ventre contre le banc incliné, tête qui dépasse, disque derrière la tête.",
+              "points": [
+                "Pourquoi : cou épais de profil et de dos : ~9 séries par semaine (Conley 1997). Pas d'échec les 6 premières semaines.",
+                "Réglage : banc incliné 30-45° (cran 2 ou 3), ventre contre le dossier, tête qui dépasse en haut. Harnais avec disque, ou disque sur serviette tenu derrière la tête.",
+                "Mouvement : laisse descendre la tête (menton vers la poitrine), remonte jusqu'à regarder devant."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

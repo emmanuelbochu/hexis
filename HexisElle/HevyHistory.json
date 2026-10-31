@@ -1,0 +1,88 @@
+{
+ "version": 2,
+ "exercises": [
+  {
+   "name": "Hip thrust machine",
+   "load": null
+  },
+  {
+   "name": "Squat Smith",
+   "load": null
+  },
+  {
+   "name": "Développé militaire haltères",
+   "muscle": "Deltoïdes antérieurs",
+   "load": "perHand"
+  },
+  {
+   "name": "Tirage vertical",
+   "load": null
+  },
+  {
+   "name": "Abduction machine",
+   "load": null
+  },
+  {
+   "name": "RDL",
+   "load": null
+  },
+  {
+   "name": "Presse à cuisses",
+   "load": null
+  },
+  {
+   "name": "Rowing poulie assis, prise en V",
+   "muscle": "Dos",
+   "load": "stack"
+  },
+  {
+   "name": "Leg curl assis",
+   "load": null
+  },
+  {
+   "name": "Élévations latérales haltères",
+   "load": null
+  },
+  {
+   "name": "Pompes",
+   "muscle": "Pectoraux",
+   "load": "total"
+  },
+  {
+   "name": "Fentes barre",
+   "muscle": "Quadriceps",
+   "load": "total"
+  },
+  {
+   "name": "Extension dos",
+   "muscle": "Dos",
+   "load": "total"
+  },
+  {
+   "name": "Développé couché haltères",
+   "muscle": "Pectoraux",
+   "load": "perHand"
+  },
+  {
+   "name": "Triceps poulie haute",
+   "muscle": "Triceps",
+   "load": "stack"
+  },
+  {
+   "name": "Kickback fessier poulie",
+   "muscle": "Fessiers",
+   "load": "stack"
+  },
+  {
+   "name": "Pompes inclinées",
+   "muscle": "Pectoraux",
+   "load": "total"
+  },
+  {
+   "name": "Squat gobelet haltère",
+   "muscle": "Quadriceps",
+   "load": "total"
+  }
+ ],
+ "sessions": []
+}

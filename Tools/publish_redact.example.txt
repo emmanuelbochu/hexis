@@ -1,0 +1,7 @@
+# Rules for Tools/publish.sh. Copy this file to Tools/publish_redact.txt (ignored by Git) and fill it with the real values.
+# Format, one rule per line:
+#   regex => replacement      applied to every text file of the export
+#   forbid: regex             fails the export if it still matches after the replacements
+Team123456 => YOUR_TEAM_ID
+com\.example\.owner => com.example
+forbid: (?i)your-first-name|your-surname

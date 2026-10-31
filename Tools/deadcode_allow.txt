@@ -1,0 +1,15 @@
+# Names that look unused but are not. One per line: name  reason. Read by Tools/deadcode.py.
+exo-curl-halteres-assis-banc-80  image kept: exercise of past sessions (History)
+exo-extension-triceps-allongee-halteres-banc-plat  image kept: exercise of past sessions (History)
+exo-extension-triceps-nuque-incline-60  image kept: exercise of past sessions (History)
+exo-isometrie-mollets-assis  image kept: exercise of past sessions (History)
+HomeView  big file: one screen whose state (@State/@Query, private) is shared by its sections; splitting would only widen access
+ExerciseCard  big file: card + its set table, one unit
+ProgramImporter  big file: the JSON format (Decodable specs) and its import, kept together
+ReceiptParser  big file: prompt, parsing and fallback of one Gemini call
+SessionAdjuster  big file: the decision ladder reads as one function family (the load part is already in SessionAdjusterLoad)
+BackupDocument  big file: one Codable struct per model, nothing to share
+BackupService  big file: export and restore are the two directions of the same model mapping
+WorkoutViewModel  big file: stored state and editing of a live session (display, feelings, defaults already split out)
+WorkoutViewModel+Defaults  big file: defaults and resume of a session, one concern
+ReceiptReviewView  big file: one review screen (row, quantity edit, move out), all sharing the lines state

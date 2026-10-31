@@ -1,0 +1,360 @@
+{
+  "name": "Full body · 2 séances par semaine",
+  "trainingWeeks": 6,
+  "deloadRIR": 3,
+  "rampWeeks": 2,
+  "rampRIR": 3,
+  "priorities": [
+    "Fessiers"
+  ],
+  "volume": {
+    "Fessiers": [
+      6,
+      12
+    ],
+    "Quadriceps": [
+      6,
+      12
+    ],
+    "Ischios": [
+      4,
+      10
+    ],
+    "Dos": [
+      4,
+      10
+    ],
+    "Deltoïdes latéraux": [
+      4,
+      10
+    ],
+    "Pectoraux": [
+      2,
+      6
+    ],
+    "Triceps": [
+      2,
+      6
+    ],
+    "Biceps": [
+      2,
+      6
+    ]
+  },
+  "workouts": [
+    {
+      "name": "Séance A",
+      "blocks": [
+        {
+          "exercises": [
+            {
+              "name": "Hip thrust machine",
+              "start": 55,
+              "muscleGroup": "Fessiers",
+              "target": "Fessiers",
+              "sets": 3,
+              "repsMin": 6,
+              "repsMax": 10,
+              "rest": 120,
+              "rir": 2,
+              "step": 5,
+              "cue": "Pause 1 s en haut, menton rentré, bassin en rétroversion.",
+              "points": [
+                "Pourquoi : le meilleur exercice pour les fessiers, ta priorité.",
+                "Mouvement : Pause 1 s en haut, menton rentré, bassin en rétroversion."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Squat Smith",
+              "start": 20,
+              "muscleGroup": "Quadriceps",
+              "target": "Quadriceps, fessiers, adducteurs",
+              "sets": 3,
+              "repsMin": 6,
+              "repsMax": 10,
+              "rest": 120,
+              "rir": 2,
+              "step": 2.5,
+              "cue": "Cuisses sous la parallèle, pieds largeur d'épaules.",
+              "points": [
+                "Mouvement : Cuisses sous la parallèle, pieds largeur d'épaules."
+              ],
+              "renamedFrom": "Squat Smith, profond"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Leg curl assis",
+              "start": 25,
+              "muscleGroup": "Ischios",
+              "target": "Ischios",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "step": 2.5,
+              "cue": "Buste penché en avant pour étirer les ischios.",
+              "points": [
+                "Mouvement : Buste penché en avant pour étirer les ischios."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Tirage vertical",
+              "start": 30,
+              "muscleGroup": "Dos",
+              "target": "Grand dorsal, biceps",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "step": 2.5,
+              "cue": "Bras tendus en haut, coudes vers les hanches.",
+              "points": [
+                "Réglage : si la poulie est prise : machine convergente Matrix.",
+                "Mouvement : Bras tendus en haut, coudes vers les hanches."
+              ],
+              "renamedFrom": "Tirage vertical poulie, prise neutre"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Développé incliné haltères",
+              "start": 8,
+              "muscleGroup": "Pectoraux",
+              "target": "Haut des pectoraux, avant d'épaules, triceps",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 60,
+              "rir": 1,
+              "step": 2,
+              "cue": "Descente contrôlée, coudes à ~45°.",
+              "points": [
+                "Réglage : superset avec les élévations latérales, au même banc.",
+                "Mouvement : Descente contrôlée, coudes à ~45°."
+              ],
+              "renamedFrom": "Développé incliné haltères (30°)"
+            },
+            {
+              "name": "Élévations latérales haltères",
+              "start": 3,
+              "muscleGroup": "Deltoïdes latéraux",
+              "target": "Deltoïdes latéraux (largeur d'épaules)",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 15,
+              "rest": 60,
+              "rir": 1,
+              "step": 2,
+              "cue": "Debout à côté du banc, buste légèrement penché, pas d'élan.",
+              "points": [
+                "Mouvement : Debout à côté du banc, buste légèrement penché, pas d'élan."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Abduction machine",
+              "start": 30,
+              "muscleGroup": "Fessiers",
+              "target": "Moyen fessier (haut et côté des fesses)",
+              "sets": 2,
+              "repsMin": 12,
+              "repsMax": 20,
+              "rest": 60,
+              "rir": 1,
+              "step": 2.5,
+              "cue": "Buste penché en avant, pause 1 s en ouverture.",
+              "points": [
+                "Mouvement : Buste penché en avant, pause 1 s en ouverture."
+              ],
+              "renamedFrom": "Abduction de hanche machine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Séance B",
+      "blocks": [
+        {
+          "exercises": [
+            {
+              "name": "RDL",
+              "start": 10,
+              "muscleGroup": "Ischios",
+              "target": "Ischios, fessiers, bas du dos",
+              "sets": 3,
+              "repsMin": 6,
+              "repsMax": 10,
+              "rest": 120,
+              "rir": 2,
+              "step": 2.5,
+              "cue": "Genoux légèrement fléchis, hanches vers l'arrière, dos neutre.",
+              "points": [
+                "Réglage : 1re montée avec la barre seule.",
+                "Mouvement : Genoux légèrement fléchis, hanches vers l'arrière, dos neutre."
+              ],
+              "renamedFrom": "Soulevé de terre jambes tendues (RDL), barre ou haltères"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Presse à cuisses",
+              "start": 35,
+              "muscleGroup": "Quadriceps",
+              "target": "Quadriceps, fessiers, adducteurs",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 120,
+              "rir": 2,
+              "step": 2.5,
+              "cue": "Pieds hauts et écartés. Amplitude max sans décoller le bas du dos.",
+              "points": [
+                "Mouvement : Pieds hauts et écartés. Amplitude max sans décoller le bas du dos."
+              ],
+              "renamedFrom": "Presse à cuisses, pieds hauts et écartés"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Rowing machine",
+              "start": 15,
+              "muscleGroup": "Dos",
+              "target": "Haut du dos, grand dorsal, biceps",
+              "sets": 3,
+              "repsMin": 8,
+              "repsMax": 12,
+              "rest": 90,
+              "rir": 1,
+              "step": 2.5,
+              "cue": "Machine Matrix à disques. Poitrine contre l'appui, bras bien tendus en avant pour étirer, coudes vers l'arrière.",
+              "points": [
+                "Mouvement : Machine Matrix à disques. Poitrine contre l'appui, bras bien tendus en avant pour étirer, coudes vers l'arrière."
+              ],
+              "renamedFrom": "Tirage horizontal Matrix (chargé avec disques)"
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Abduction machine",
+              "start": 30,
+              "muscleGroup": "Fessiers",
+              "target": "Moyen fessier (haut et côté des fesses)",
+              "sets": 2,
+              "repsMin": 12,
+              "repsMax": 20,
+              "rest": 60,
+              "rir": 1,
+              "step": 2.5,
+              "cue": "Buste penché en avant, pause 1 s en ouverture.",
+              "points": [
+                "Réglage : superset : prends tes haltères et reste à la machine.",
+                "Mouvement : Buste penché en avant, pause 1 s en ouverture."
+              ],
+              "renamedFrom": "Abduction de hanche machine"
+            },
+            {
+              "name": "Élévations latérales haltères",
+              "start": 3,
+              "muscleGroup": "Deltoïdes latéraux",
+              "target": "Deltoïdes latéraux (largeur d'épaules)",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 15,
+              "rest": 60,
+              "rir": 1,
+              "step": 2,
+              "cue": "Debout à côté du banc, buste légèrement penché, pas d'élan.",
+              "points": [
+                "Mouvement : Debout à côté du banc, buste légèrement penché, pas d'élan."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Leg extension",
+              "start": 25,
+              "muscleGroup": "Quadriceps",
+              "target": "Quadriceps",
+              "sets": 2,
+              "repsMin": 10,
+              "repsMax": 15,
+              "rest": 60,
+              "rir": 1,
+              "step": 2.5,
+              "cue": "Dossier incliné vers l'arrière si possible, descente lente.",
+              "points": [
+                "Mouvement : Dossier incliné vers l'arrière si possible, descente lente."
+              ]
+            }
+          ]
+        },
+        {
+          "exercises": [
+            {
+              "name": "Extension triceps poulie",
+              "start": 15,
+              "muscleGroup": "Triceps",
+              "target": "Triceps (arrière du bras)",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 15,
+              "rest": 45,
+              "rir": 1,
+              "step": 1,
+              "cue": "Coudes fixes, étirement complet derrière la tête.",
+              "points": [
+                "Réglage : superset avec le curl, à la poulie.",
+                "Mouvement : Coudes fixes, étirement complet derrière la tête."
+              ],
+              "renamedFrom": "Extension triceps à la poulie au-dessus de la tête"
+            },
+            {
+              "name": "Curl haltères debout",
+              "start": 5,
+              "muscleGroup": "Biceps",
+              "target": "Biceps",
+              "sets": 3,
+              "repsMin": 10,
+              "repsMax": 15,
+              "rest": 45,
+              "rir": 1,
+              "step": 2,
+              "cue": "Coudes collés au corps, bras complètement tendus en bas, pas d'élan.",
+              "points": [
+                "Réglage : debout à côté de la poulie.",
+                "Mouvement : Coudes collés au corps, bras complètement tendus en bas, pas d'élan."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

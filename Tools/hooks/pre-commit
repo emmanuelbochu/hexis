@@ -1,0 +1,5 @@
+#!/bin/zsh
+# Refuses a commit that breaks the audit, the logic tests, the life simulator or the build (only when code or the program changed).
+# Installed by `git config core.hooksPath Tools/hooks`. Emergency bypass: git commit --no-verify.
+git diff --cached --name-only | grep -qE '\.swift$|Program\.json$|Tools/(check|logic_tests)\.sh$' || exit 0
+zsh "$(git rev-parse --show-toplevel)/Tools/check.sh" || { echo "commit refusé : corriger d'abord (Tools/check.sh)"; exit 1; }

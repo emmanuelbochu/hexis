@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Secrets (Gemini API key etc.) — never commit
+Secrets.xcconfig
+Secrets.swift
+*.secret
+.env
+.env.*
+
+# Claude Code local settings
+.claude/settings.local.json
+Secrets.plist
+.claude/statusline-last.json
+Tools/generated/
+Tools/.data/
+
+# Private rules of the public export (list personal data)
+Tools/publish_redact.txt
+.build-elle/
